@@ -211,5 +211,16 @@ header .header{
     max-width: 300px;
     margin: 0 auto;
   }
+
+  .aboutcontainer{
+    text-align: center;
+    font-family:sans-serif;
+    font-size: 150%;
+    
+  }
+
+  .aboutcontainer i{
+    font-size: 100%;
+  }
   
   
